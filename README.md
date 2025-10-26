@@ -4,7 +4,7 @@ Este projeto é um dashboard de Business Intelligence completo, desenvolvido 100
 
 ## 📊 Visualização do Dashboard
 
-![Visualização do Dashboard Comercial](assets/image_906a76.jpg)
+![Visualização do Dashboard Comercial](assets/Dashboard-Comercial.jpg)
 
 ## 1. Descrição
 
